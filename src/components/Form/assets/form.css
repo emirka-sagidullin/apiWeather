@@ -1,0 +1,12 @@
+.weather__form{
+    display: flex;
+}
+
+.weather__input{
+    width: 100%;
+}
+
+.weather__button{
+    background: #413ED2;
+    border: 0;
+}
